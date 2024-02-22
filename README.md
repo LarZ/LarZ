@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lars
-- 👀 I’m a beginner
+- 👀 I’m a beginner, coding in my free time
 - 🌱 I’m currently learning Python
 - 
 - 💞️ I’m looking to collaborate on ...
